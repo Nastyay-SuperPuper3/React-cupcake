@@ -1,0 +1,38 @@
+.aboutMain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutPhoto {
+    box-shadow: 0px 4px 50px 12px #F13D68;
+    margin: 100px;
+    width: 200px;
+    height: 300px;
+}
+
+.aboutTitle {
+    display: flex;
+}
+
+.aboutTitlePink {
+    font-size: 36px;
+    font-weight: 900;
+    padding-right: 10px;
+    color: var(--pink);
+}
+
+.aboutTitleBlack {
+    font-size: 36px;
+    font-weight: 900;
+    color: black;
+}
+
+.aboutSubtitle {
+    font-size: 25px;
+}
+
+.aboutTextBlack {
+    width: 400px;
+    padding-top: 20px;
+}

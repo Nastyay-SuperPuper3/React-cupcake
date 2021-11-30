@@ -1,0 +1,18 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--pink);
+    padding: 20px 100px;
+    bottom: 0;
+}
+
+.footerText {
+    color: white;
+    font-size: 15px;
+}
+
+.footerInfoText {
+    color: white;
+    padding-bottom: 10px;
+}

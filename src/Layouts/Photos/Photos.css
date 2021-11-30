@@ -1,0 +1,35 @@
+.photosMain {
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#F13D68, rgba(248, 100, 134, 0.6) );
+}
+
+.titleContainer {
+    display: flex;
+}
+
+.photosTitlePink {
+    font-size: 36px;
+    color: white;
+    padding-right: 10px;
+}
+
+.photosTitleBlack {
+    font-size: 36px;
+    color: black;
+}
+
+.photosCard {
+    margin: 25px;
+    width: 300px;
+    height: 300px;
+    transition: .2s;
+    cursor: pointer;
+}
+
+.photosCard:hover {
+    box-shadow: 0px 4px 50px 12px white;
+}

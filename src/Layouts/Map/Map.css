@@ -1,0 +1,15 @@
+.mapBlock {
+    padding: 50px 100px;
+    background: linear-gradient(#F13D68, rgba(248, 100, 134, 0.6) );
+}
+
+.mapTitle {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.mapText {
+    color: white;
+    font-size: 15px;
+}
